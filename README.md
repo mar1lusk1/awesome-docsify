@@ -27,6 +27,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [gallery-pyecharts](https://gallery.pyecharts.org) - A Data Visualization Gallery Based on pyecharts.
 - [Posthtml](https://posthtml.org) - Documentation for PostHTML, a tool to transform HTML/XML with JS plugins.
 - [Explore Wanchain](https://www.explorewanchain.org/) - Documentation for Wanchain, a blockchain with smart contracts, private transactions, and cross-chain features.
+- [Elm Official Guide](https://guide.elm-lang.org) - Official tutorial for the Elm programming language. 
 - [Laravel SweetAlert2](https://realrashid.github.io/sweet-alert) - Documentation for Laravel SweetAlert2, A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes for Laravel.
 - [Security List](http://security-list.js.org) - A series of personal cyber security tools, resources and checklists.
 - [Snipaste](https://docs.snipaste.com/) - Snip & Paste.
